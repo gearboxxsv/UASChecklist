@@ -19,10 +19,10 @@ Please give credit to *UnmannedAircraftSafetyTeam.org in your application when u
 # TOOLSET 
 The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content, like a PDF version of a checklist, peer reviewed and approved by the UAST.  Use of these tools is without warranty and we provide this information as-is for use. 
 
-> Reporting directly to NASA ASRS is available using the Advanced link below. 
 
-### INTERESTED IN ACCIDENT REPORTING?
- 
+# INTERESTED IN ACCIDENT REPORTING?
+ > Reporting directly to NASA ASRS is available using the Advanced link below. 
+
 [Learn About UAST Anonymous Reporting & Data Use](https://github.com/gearboxxsv/OPENASRS)
 
  
