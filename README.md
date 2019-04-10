@@ -2,7 +2,15 @@
 This is the official repository for the Unmanned Aircraft Safety Team (UAST) UASChecklist dataset project.  The library contains training dataset for Drone pilot training created by the members of the UAST.   Developers building safety management system integrations can link to the OpenAPI dataset with one link and have the system built into their application.  
 
 # How To Use
-Use JSON based files built by the Unmanned Aircraft Safety Team in your app by linking to the ROOT dataset.  Parse this file to learn the categories and content available.  Setup your software to poll and pull the GITHUB repository hosted openapi.json ROOT file for easy updates for your application!  
+Use JSON based data files built by the Unmanned Aircraft Safety Team in your app by linking to the ROOT URL.  Parse this file to learn the categories and content available.  Setup your software to poll and pull the GITHUB repository hosted openapi.json ROOT file for easy updates for your application!  
+
+
+>ROOT https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/openapi.json
+
+>Crew        https://github.com/gearboxxsv/uaschecklist/master/crew/openapi.json
+>Environment https://github.com/gearboxxsv/uaschecklist/master/environment/openapi.json
+>Operation   https://github.com/gearboxxsv/uaschecklist/master/operation/openapi.json
+>Preparation https://github.com/gearboxxsv/uaschecklist/master/preparation/openapi.json
 
 #Usage
 Please give credit to *UnmannedAircraftSafetyTeam.org in your application when using the source files.
