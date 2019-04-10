@@ -5,7 +5,7 @@ is a group focused on safety and helping all of us learn about aviation safety c
 files to create multi level games with safety content designed for teaching and field uses.  
 
 
-# C.E.O.P. CHECKLIST MODEL
+# C.E.O.P. CHECKLIST DATA MODEL
 Each set of configuration level of the game is related to Crew, Environment, Operation, or Preparation for pilots of unmanned aircraft only, this is not for general aviation pilots in any format.  There are XX levels
 for the user to climb to the top of the knowledge ladder model demonstrated in the file naming of the ROOT URL below.
  
@@ -14,7 +14,7 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
     All CEOP Topics - LEVEL 2   uast-game-ceop.02.json 
     All CEOP Topics - LEVEL X   uast-game-ceop.XX.json 
   
-## CHECKLIST OBJECT 
+### CHECKLIST OBJECT 
 {
 "pilotTrainingTopics" = []
 
@@ -28,7 +28,7 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
 }
 
   
- # TRIVIA GAME
+ # TRIVIA GAME DATASET
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
 
 ### ROOT URL
@@ -37,7 +37,7 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
    Trivia CEOP - LEVEL X   trivia.XX.json 
         
 
-## TRIVIA OBJECT
+### TRIVIA OBJECT
 {
 "parent" = CEOP INDEX
 
