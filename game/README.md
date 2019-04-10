@@ -10,14 +10,18 @@ Each set of configuration level of the game is related to Crew, Environment, Ope
 for the user to climb to the top of the knowledge ladder model demonstrated in the file naming of the ROOT URL below.
  
 ### ROOT URL
-        "Covering All CEOP Topics"   uast-game-ceop.01.json 
+    All CEOP Topics - LEVEL 1   uast-game-ceop.01.json 
+    All CEOP Topics - LEVEL 2   uast-game-ceop.02.json 
+    All CEOP Topics - LEVEL X   uast-game-ceop.XX.json 
   
   
  # TRIVIA GAME
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
 
 ### ROOT URL
-        "Covering All CEOP Topics"   trivia.01.json 
+        "Covering All CEOP 1"   trivia.01.json 
+        "Covering All CEOP 2"   trivia.02.json 
+        "Covering All CEOP X"   trivia.XX.json 
         
 
 ## Data Object 
