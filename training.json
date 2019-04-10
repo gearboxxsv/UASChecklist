@@ -57,7 +57,13 @@
     "INDEX": {
       "type": "string",
       "enum": [
-        ["Checklist Name","arrayPilotTrainingTopics","https://github.com/gearboxxsv/uaschecklist/checklist.pdf"],
+        ["Crew","arrayPilotTrainingTopics","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/training.json"],
+         ]
+        ["Environment","arrayPilotTrainingTopics","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/environment/training.json"],
+         ]
+        ["Operation","arrayPilotTrainingTopics","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/operation/training.json"],
+         ],
+        ["Preparation","arrayPilotTrainingTopics","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/preparation/training.json"],
          ]
     },
        
