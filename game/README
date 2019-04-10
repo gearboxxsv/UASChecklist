@@ -14,7 +14,7 @@ for the user to climb to the top.
   
   
  # TRIVIA GAME
- A single file download with the game rules, content, and links needed for a trivia game.
+ A single file download with the game rules, content, and links needed for a trivia game with X levels.
  # ROOT URL
         "Covering All CEOP Topics"   trivia.01.json 
         
