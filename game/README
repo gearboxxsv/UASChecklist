@@ -19,13 +19,20 @@ for the user to climb to the top.
         "Covering All CEOP Topics"   trivia.01.json 
         
 
-# Data Object Structure
+# Data Object 
+{
 "parent" = CEOP INDEX
-"type": RB=RADIO CB=CHECKBOX
+
+"type": 
+      RB=RADIO :: SINGLE ANSWER
+      CB=CHECKBOX :: MULTI ANSWER
+      
 "labelTxt": DISPLAY TEXT
             "ans1": 1
             "ans2": 2
             "ans3": 3
             "ans4": 4
             "ans5": 5
+            
 "correct": [ans1,ans4] 
+}
