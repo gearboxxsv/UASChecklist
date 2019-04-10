@@ -17,7 +17,7 @@ Please give credit to *UnmannedAircraftSafetyTeam.org in your application when u
  
 
 # TOOLSET 
-The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content to test knowledge, the index of checklists links to PDF versions of the checklists approved by the UAST.  Inside of UASChecklist openapi.json data file, locate the INDEX node to begin parsing the objects available to you.  Use of these tools is without warrenty and we provide this information as-is for use for the express purpose described and not for commercial purposes without the express written permission from the Secretary of the UAST.
+The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content to test knowledge, the index content, like PDF versions of the checklists, approved by the UAST.  Inside of each openapi.json data file, locate the INDEX node to begin parsing the objects available.  Use of these tools is without warrenty and we provide this information as-is for use for the express purpose described and not for commercial purposes without the express written permission from the Secretary of the UAST.  
 
 > Reporting directly to NASA ASRS is available using the Advanced link below. 
 
