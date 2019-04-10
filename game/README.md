@@ -14,6 +14,19 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
     All CEOP Topics - LEVEL 2   uast-game-ceop.02.json 
     All CEOP Topics - LEVEL X   uast-game-ceop.XX.json 
   
+## CHECKLIST OBJECT 
+{
+"pilotTrainingTopics" = []
+
+"type": 
+      [C,E,O,P]
+      
+"labelTxt": DISPLAY TEXT
+
+            
+"difLevel": [1,10] 
+}
+
   
  # TRIVIA GAME
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
@@ -24,7 +37,7 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
    Trivia CEOP - LEVEL X   trivia.XX.json 
         
 
-## Data Object 
+## TRIVIA OBJECT
 {
 "parent" = CEOP INDEX
 
