@@ -1,6 +1,12 @@
 {
-        
-    "TOC":[    {
+   "topicBuckets" : [
+        ["Crew", "Crew Checklist"],
+        ["Environment", "Environmental Checklist"],
+        ["Operation", "Operation Checklist"],
+        ["Preparation", "Preparation Checklist"],
+    ],
+   "playerLevels" :["Expert UAS Pilot","Advanced UAS Pilot","Drone Race Pilot","Hobbyist Drone Pilot","Novice Drone Pilot"],
+   "TOC":[    {
             "parent": "c",
             "type": "RB",
             "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
