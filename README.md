@@ -7,17 +7,18 @@ Use JSON based data files built by the Unmanned Aircraft Safety Team in your app
 ### Quick-Start URLs
 *  ROOT https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/openapi.json
 
-*  Crew        https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew.json
-*  Environment https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment.json
-*  Operation   https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation.json
-*  Preparation https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation.json
-
 ### Usage Credit
 Please give credit to *UnmannedAircraftSafetyTeam.org in your application when using the source files.
  
 
 # TOOLSET 
 The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content, like a PDF version of a checklist, peer reviewed and approved by the UAST.  Use of these tools is without warranty and we provide this information as-is for use. 
+
+## TOPIC URLs 
+*  Crew        https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/crew.json
+*  Environment https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment/environment.json
+*  Operation   https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation/operation.json
+*  Preparation https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json
 
 
 # INTERESTED IN ACCIDENT REPORTING?
