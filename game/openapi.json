@@ -150,18 +150,18 @@
         ]
       ]
     },
-    "GAME": {
+     "GAME": {
       "type": "string",
       "enum": [
         [
-          "Crew",
+          "Check List or Loost It",
           "Level 1",
           "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.01.json"
         ],
         [
-          "Crew",
-          "Level 1",
-          "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.01.json"
+           "Check List or Loost It",
+          "Level 2",
+          "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.02.json"
         ]
       ]
     },
