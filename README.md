@@ -15,7 +15,7 @@ Please give credit to *UnmannedAircraftSafetyTeam.org in your application when u
 The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content, like a PDF version of a checklist, peer reviewed and approved by the UAST.  Use of these tools is without warranty and we provide this information as-is for use. 
 
 ## GAME URLs 
-*  Crew        https://github.com/gearboxxsv/UASChecklist/tree/master/game
+*  Checklist Trivia        https://github.com/gearboxxsv/UASChecklist/tree/master/game
 
 
 # INTERESTED IN ACCIDENT REPORTING?
