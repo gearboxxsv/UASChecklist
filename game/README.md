@@ -9,17 +9,18 @@ files to create multi level games with safety content designed for teaching and 
 Each set of configuration files is a level of the game.  There are XX levels
 for the user to climb to the top.
  
-# ROOT URL
+### ROOT URL
         "Covering All CEOP Topics"   uast-game-ceop.01.json 
   
   
  # TRIVIA GAME
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
- # ROOT URL
+
+### ROOT URL
         "Covering All CEOP Topics"   trivia.01.json 
         
 
-# Data Object 
+## Data Object 
 {
 "parent" = CEOP INDEX
 
