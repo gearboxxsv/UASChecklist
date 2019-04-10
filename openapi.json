@@ -34,31 +34,31 @@
             "pilotTrainingTopics": {
                 "type": "string",
                 "enum": [
-                    [1001,"PILOT - Inadequate Preparation"],
-                    [1002,"PILOT - Decision Error"],
-                    [1003,"COMMUNICATION - RF Link Lost"],
-                    [1004,"PILOT - Loss of visual contact"],
-                    [1005,"PILOT - Inadequate Situation Awareness"],
-                    [1006,"AUTOPILOT - Incomplete Data Record"],
                     [1007,"AIR TRAFFIC SYSTEM - Flight Outside Approved Airspace (altitude)"],
-                    [1008,"GROUND STATION - Software Failure"],
+                    [1006,"AUTOPILOT - Incomplete Data Record"],
                     [1009,"AUTOPILOT - RTL Design Problem"],
-                    [1010,"PILOT - Negligence"],
-                    [1011,"PILOT - Lack of Knowledge of Operational Rules"],
-                    [1012,"PILOT - Inexperience Flying UAS"],
-                    [1013,"PILOT - Unfamiliar With Specific UAS"],
-                    [1014,"AIRCRAFT - UA Failure Identified"],
                     [1015,"AUTOPILOT - Multiple Circumstantial Events"],
                     [1016,"AIRCRAFT - UA Failure Due to Previous Inobvious Damage"],
                     [1017,"AIRCRAFT - UA Failure Due to Previous Obvious Damage"],
+                    [1014,"AIRCRAFT - UA Failure Identified"],
+                    [1003,"COMMUNICATION - RF Link Lost"],
+                    [1002,"PILOT - Decision Error"],
+                    [1001,"PILOT - Inadequate Preparation"],
+                    [1005,"PILOT - Inadequate Situation Awareness"],
+                    [1012,"PILOT - Inexperience Flying UAS"],
+                    [1011,"PILOT - Lack of Knowledge of Operational Rules"],
+                    [1004,"PILOT - Loss of visual contact"],
+                    [1010,"PILOT - Negligence"],
+                    [1013,"PILOT - Unfamiliar With Specific UAS"],
+                    [1008,"GROUND STATION - Software Failure"],
                     [77,"TRAINING - incorrect spin recovery technique (A1)"],
                     [79,"TRAINING - Lack of refresher training and/or limitations of known mission specific hazards (A2)"],
+                    [103,"WEATHER- Locality of weather information (A1.5)"],
                     [45,"WEATHER - Signifcant weather (SIGMET) (A3)"],
-                    [27,"WEATHER SERVICE - Inacurate forcast (A3)"],
-                    [103,"WEATHER- Locality of weather information (A1.5)"]
+                    [27,"WEATHER SERVICE - Inacurate forcast (A3)"]
                 ]
             },
-            "INDEX": {
+            "TOC": {
                 "type": "string",
                 "enum": [
                     ["Crew","Crew Checklist","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew.json"],
