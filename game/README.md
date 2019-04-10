@@ -11,9 +11,10 @@ Each set of configuration level of the game is related to Crew, Environment, Ope
 for the user to climb to the top of the knowledge ladder.   
  
 ### ROOT URL
->    All CEOP Topics - LEVEL 1   uast-game-ceop.01.json 
-    All CEOP Topics - LEVEL 2   uast-game-ceop.02.json 
-    All CEOP Topics - LEVEL X   uast-game-ceop.XX.json 
+>    
+* All CEOP Topics - LEVEL 1   uast-game-ceop.01.json 
+* All CEOP Topics - LEVEL 2   uast-game-ceop.02.json 
+* All CEOP Topics - LEVEL X   uast-game-ceop.XX.json 
   
 ### CHECKLIST OBJECT 
 {
@@ -35,9 +36,10 @@ for the user to climb to the top of the knowledge ladder.
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
 
 ### ROOT URL
->   Trivia CEOP - LEVEL 1   trivia.01.json 
-   Trivia CEOP - LEVEL 2   trivia.02.json 
-   Trivia CEOP - LEVEL X   trivia.XX.json 
+>   
+* Trivia CEOP - LEVEL 1   trivia.01.json 
+* Trivia CEOP - LEVEL 2   trivia.02.json 
+* Trivia CEOP - LEVEL X   trivia.XX.json 
         
 
 ### TRIVIA OBJECT
