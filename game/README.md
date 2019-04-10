@@ -5,9 +5,9 @@ is a group focused on safety and helping all of us learn about aviation safety c
 files to create multi level games with safety content designed for teaching and field uses.  
 
 
-# CEOP CHECKLIST GAME
-Each set of configuration files is a level of the game.  There are XX levels
-for the user to climb to the top.
+# C.E.O.P. CHECKLIST MODEL
+Each set of configuration level of the game is related to Crew, Environment, Operation, or Preparation for pilots of unmanned aircraft only, this is not for general aviation pilots in any format.  There are XX levels
+for the user to climb to the top of the knowledge ladder model demonstrated in the file naming of the ROOT URL below.
  
 ### ROOT URL
         "Covering All CEOP Topics"   uast-game-ceop.01.json 
