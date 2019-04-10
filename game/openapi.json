@@ -1,85 +1,186 @@
 {
-            "swagger": "2.0",
-            "info": {
-                "version": "v1",
-                "title": "",
-                "description": "Open UASChecklist API",
-                "contact": {
-                    "name": "Unmanned Aircraft Safety Team",
-                    "url": "http://UnmannedAircraftSafetyTeam.org",
-                    "email": "Support@UnmannedAircraftSafetyTeam.org"
-                },
-                "license": {
-                    "name": "Server Side Public License (SSPL)",
-                    "url": "https://github.com/gearboxxsv/UASChecklist/blob/master/LICENSE"
-                },
-                "termsOfService": "http://wp.tegbiz.com/terms-of-use/"
-            },
-            "host": "#",
-            "basePath": "v1",
-            "tags": [
-                {
-                    "name": "UASChecklist Trivia Game SDK",
-                    "description": "Industry standard and developed checklists for use in training and safety managment systems.",
-                    "externalDocs": {
-                        "description": "Find your checklist dataset for use in any drone pilot and industry safety toolsets to improve pilot safety culture in unmanned systems.",
-                        "url": "https://github.com/gearboxxsv/uaschecklist/game/"
-                    }
-                }
-            ],
-            "schemes": [
-                "https",
-                "http"
-            ],
-            "pilotTrainingTopics": {
-                "type": "string",
-                "enum": [
-                    [1007,"AIR TRAFFIC SYSTEM - Flight Outside Approved Airspace (altitude)"],
-                    [1006,"AUTOPILOT - Incomplete Data Record"],
-                    [1009,"AUTOPILOT - RTL Design Problem"],
-                    [1015,"AUTOPILOT - Multiple Circumstantial Events"],
-                    [1016,"AIRCRAFT - UA Failure Due to Previous Inobvious Damage"],
-                    [1017,"AIRCRAFT - UA Failure Due to Previous Obvious Damage"],
-                    [1014,"AIRCRAFT - UA Failure Identified"],
-                    [1003,"COMMUNICATION - RF Link Lost"],
-                    [1002,"PILOT - Decision Error"],
-                    [1001,"PILOT - Inadequate Preparation"],
-                    [1005,"PILOT - Inadequate Situation Awareness"],
-                    [1012,"PILOT - Inexperience Flying UAS"],
-                    [1011,"PILOT - Lack of Knowledge of Operational Rules"],
-                    [1004,"PILOT - Loss of visual contact"],
-                    [1010,"PILOT - Negligence"],
-                    [1013,"PILOT - Unfamiliar With Specific UAS"],
-                    [1008,"GROUND STATION - Software Failure"],
-                    [77,"TRAINING - incorrect spin recovery technique (A1)"],
-                    [79,"TRAINING - Lack of refresher training and/or limitations of known mission specific hazards (A2)"],
-                    [103,"WEATHER- Locality of weather information (A1.5)"],
-                    [45,"WEATHER - Signifcant weather (SIGMET) (A3)"],
-                    [27,"WEATHER SERVICE - Inacurate forcast (A3)"]
-                ]
-            },
-            "TOC": {
-                "type": "string",
-                "enum": [
-                    ["Crew","Crew Checklist","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/crew.json"],
-                    ["Environment","Environmental Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment/environment.json"],
-                    ["Operation","Operation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation/operation.json"],
-                    ["Preparation","Preparation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json"]
-                ]
-            },
-        "timestamp": {
-        "type": "string",
-            "pattern": "^2[0-9][0-9][0-9]-[01][0-9]-[0123][0-9]T[012][0-9]:[012345][0-9]:[012345][0-9]\\.[0-9][0-9][0-9][0-9]*Z{0,1}$",
-            "example": "2018-03-05T19:56:23.445"
+  "_id": "QN3etja7EyMbicjgp",
+  "url": "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/openapi.json",
+  "typeObject": "scrapedSite",
+  "websiteData": {
+    "swagger": "2.0",
+    "info": {
+      "version": "v1",
+      "title": "",
+      "description": "Open UASChecklist API",
+      "contact": {
+        "name": "Unmanned Aircraft Safety Team",
+        "url": "http://UnmannedAircraftSafetyTeam.org",
+        "email": "Support@UnmannedAircraftSafetyTeam.org"
+      },
+      "license": {
+        "name": "Server Side Public License (SSPL)",
+        "url": "https://github.com/gearboxxsv/UASChecklist/blob/master/LICENSE"
+      },
+      "termsOfService": "http://wp.tegbiz.com/terms-of-use/"
+    },
+    "host": "#",
+    "basePath": "v1",
+    "tags": [
+      {
+        "name": "UASChecklist Trivia Game SDK",
+        "description": "Industry standard and developed checklists for use in training and safety managment systems.",
+        "externalDocs": {
+          "description": "Find your checklist dataset for use in any drone pilot and industry safety toolsets to improve pilot safety culture in unmanned systems.",
+          "url": "https://github.com/gearboxxsv/uaschecklist/game/"
+        }
+      }
+    ],
+    "schemes": [
+      "https",
+      "http"
+    ],
+    "pilotTrainingTopics": {
+      "type": "string",
+      "enum": [
+        [
+          1007,
+          "AIR TRAFFIC SYSTEM - Flight Outside Approved Airspace (altitude)"
+        ],
+        [
+          1006,
+          "AUTOPILOT - Incomplete Data Record"
+        ],
+        [
+          1009,
+          "AUTOPILOT - RTL Design Problem"
+        ],
+        [
+          1015,
+          "AUTOPILOT - Multiple Circumstantial Events"
+        ],
+        [
+          1016,
+          "AIRCRAFT - UA Failure Due to Previous Inobvious Damage"
+        ],
+        [
+          1017,
+          "AIRCRAFT - UA Failure Due to Previous Obvious Damage"
+        ],
+        [
+          1014,
+          "AIRCRAFT - UA Failure Identified"
+        ],
+        [
+          1003,
+          "COMMUNICATION - RF Link Lost"
+        ],
+        [
+          1002,
+          "PILOT - Decision Error"
+        ],
+        [
+          1001,
+          "PILOT - Inadequate Preparation"
+        ],
+        [
+          1005,
+          "PILOT - Inadequate Situation Awareness"
+        ],
+        [
+          1012,
+          "PILOT - Inexperience Flying UAS"
+        ],
+        [
+          1011,
+          "PILOT - Lack of Knowledge of Operational Rules"
+        ],
+        [
+          1004,
+          "PILOT - Loss of visual contact"
+        ],
+        [
+          1010,
+          "PILOT - Negligence"
+        ],
+        [
+          1013,
+          "PILOT - Unfamiliar With Specific UAS"
+        ],
+        [
+          1008,
+          "GROUND STATION - Software Failure"
+        ],
+        [
+          77,
+          "TRAINING - incorrect spin recovery technique (A1)"
+        ],
+        [
+          79,
+          "TRAINING - Lack of refresher training and/or limitations of known mission specific hazards (A2)"
+        ],
+        [
+          103,
+          "WEATHER- Locality of weather information (A1.5)"
+        ],
+        [
+          45,
+          "WEATHER - Signifcant weather (SIGMET) (A3)"
+        ],
+        [
+          27,
+          "WEATHER SERVICE - Inacurate forcast (A3)"
+        ]
+      ]
+    },
+    "TOC": {
+      "type": "string",
+      "enum": [
+        [
+          "Crew",
+          "Crew Checklist",
+          "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/crew.json"
+        ],
+        [
+          "Environment",
+          "Environmental Checklist",
+          "https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment/environment.json"
+        ],
+        [
+          "Operation",
+          "Operation Checklist",
+          "https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation/operation.json"
+        ],
+        [
+          "Preparation",
+          "Preparation Checklist",
+          "https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json"
+        ]
+      ]
+    },
+    "GAME": {
+      "type": "string",
+      "enum": [
+        [
+          "Crew",
+          "Level 1",
+          "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.01.json"
+        ],
+        [
+          "Crew",
+          "Level 1",
+          "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.01.json"
+        ]
+      ]
+    },
+    "timestamp": {
+      "type": "string",
+      "pattern": "^2[0-9][0-9][0-9]-[01][0-9]-[0123][0-9]T[012][0-9]:[012345][0-9]:[012345][0-9]\\.[0-9][0-9][0-9][0-9]*Z{0,1}$",
+      "example": "2018-03-05T19:56:23.445"
     },
     "CHECKLISTGUID": {
-        "type": "string",
-            "format": "uuid",
-            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
-            "example": "d7126818-d280-475f-aaee-c16e9c6f04e0",
-            "maxLength": 36,
-            "minLength": 36
+      "type": "string",
+      "format": "uuid",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+      "example": "d7126818-d280-475f-aaee-c16e9c6f04e0",
+      "maxLength": 36,
+      "minLength": 36
     }
-
-
-        }
+  },
+  "createdAt": 1554867921332.0
+}
