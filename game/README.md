@@ -19,9 +19,9 @@ for the user to climb to the top of the knowledge ladder model demonstrated in t
  A single file download with the game rules, content, and links needed for a trivia game with X levels.
 
 ### ROOT URL
-        "Covering All CEOP 1"   trivia.01.json 
-        "Covering All CEOP 2"   trivia.02.json 
-        "Covering All CEOP X"   trivia.XX.json 
+   Trivia CEOP - LEVEL 1   trivia.01.json 
+   Trivia CEOP - LEVEL 2   trivia.02.json 
+   Trivia CEOP - LEVEL X   trivia.XX.json 
         
 
 ## Data Object 
