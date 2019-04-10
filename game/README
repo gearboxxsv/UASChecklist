@@ -1,0 +1,15 @@
+# Toolset 
+
+Developing a game for training kids or adults to fly a drone is a challenge.  Use this set of configuration
+files to create multi level games.  Each set of configuration files is a level of the game.  There are XX levels
+for the user to climb to the top.
+ 
+ # CEOP CHECKLIST MODEL
+    CHECKLIST,    CHECKLIST NAME,               LEVEL   FILENAME
+        "Crew",       "Crew Checklist"                X     crew-X.json
+        "Environment","Environmental Checklist"       X     envi-X.json
+        "Operation",  "Operation Checklist"           X     oper-X.json
+        "Preparation","Preparation Checklist"         X     prep-X.json
+  
+  
+        
