@@ -7,7 +7,7 @@ Use JSON based data files built by the Unmanned Aircraft Safety Team in your app
 ### Quick-Start URLs
 *  ROOT https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/openapi.json
 
-*  Crew        https://github.com/gearboxxsv/uaschecklist/master/crew.json
+*  Crew        https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew.json
 *  Environment https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment.json
 *  Operation   https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation.json
 *  Preparation https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation.json
