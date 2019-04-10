@@ -61,10 +61,10 @@
             "TOC": {
                 "type": "string",
                 "enum": [
-                    ["Crew","Crew Checklist","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew.json"],
-                    ["Environment","Environmental Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment.json"],
-                    ["Operation","Operation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation.json"],
-                    ["Preparation","Preparation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation.json"]
+                    ["Crew","Crew Checklist","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/crew.json"],
+                    ["Environment","Environmental Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment/environment.json"],
+                    ["Operation","Operation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation/operation.json"],
+                    ["Preparation","Preparation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json"]
                 ]
             },
         "timestamp": {
