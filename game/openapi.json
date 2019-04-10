@@ -126,6 +126,21 @@
         ]
       ]
     },
+   "GAME": {
+            "type": "object",
+            "enum": [
+                        {
+                            name:"Check List or Loost It",
+                            level:"1",
+                            src:"https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.01.json"
+                        },
+                        {
+                            name:"Check List or Loost It",
+                            level:"2",
+                            src:"https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/trivia.02.json"
+                        }
+                    ]
+    },
     "timestamp": {
       "type": "string",
       "pattern": "^2[0-9][0-9][0-9]-[01][0-9]-[0123][0-9]T[012][0-9]:[012345][0-9]:[012345][0-9]\\.[0-9][0-9][0-9][0-9]*Z{0,1}$",
