@@ -1,10 +1,14 @@
 # Toolset 
 
-Developing a game for training kids or adults to fly a drone is a challenge.  Use this set of configuration
-files to create multi level games.  Each set of configuration files is a level of the game.  There are XX levels
+Developing a game for training kids or adults to fly a drone is a challenge, this is not the toolkit.  UAST
+is a group focused on safety and helping all of us learn about aviation safety culture.  Use this set of configuration
+files to create multi level games with safety content designed for teaching and field uses.  
+
+
+# CEOP CHECKLIST GAME
+Each set of configuration files is a level of the game.  There are XX levels
 for the user to climb to the top.
  
- # CEOP CHECKLIST MODEL
          CHECKLIST,    CHECKLIST NAME,               LEVEL   FILENAME
         "Crew",       "Crew Checklist"                X     crew-X.json
         "Environment","Environmental Checklist"       X     envi-X.json
@@ -12,4 +16,6 @@ for the user to climb to the top.
         "Preparation","Preparation Checklist"         X     prep-X.json
   
   
+ # TRIVIA GAME
+ A single file download with the game rules, content, and links needed for a trivia game.
         
