@@ -1,1 +1,27 @@
 
+[
+        {
+            "parent": "gCAcBpH76AJaApGdA",
+            "type": "RB",
+            "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
+            "ans1": "All Airport runways and approach paths ",
+            "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Approach/departure paths of Class B and C airports",
+            "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
+            "correct": "ans4"
+        },
+        {
+            "parent": "gCAcBpH76AJaApGdA",
+            "type": "RB",
+            "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
+            "ans1": "All Airport runways and approach paths ",
+            "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Approach/departure paths of Class B and C airports",
+            "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
+            "correct": "ans1"
+        },
+
+
+    ]
