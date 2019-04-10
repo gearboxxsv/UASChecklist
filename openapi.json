@@ -61,10 +61,10 @@
             "INDEX": {
                 "type": "string",
                 "enum": [
-                    ["Crew","Crew Checklist","https://github.com/gearboxxsv/uaschecklist/crew/openapi.json"],
-                    ["Environment","Environmental Checklist","https://github.com/gearboxxsv/uaschecklist/environment/openapi.json"],
-                    ["Operation","Operation Checklist","https://github.com/gearboxxsv/uaschecklist/operation/openapi.json"],
-                    ["Preparation","Preparation Checklist","https://github.com/gearboxxsv/uaschecklist/preparation/openapi.json"]
+                    ["Crew","Crew Checklist","https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew.json"],
+                    ["Environment","Environmental Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment.json"],
+                    ["Operation","Operation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation.json"],
+                    ["Preparation","Preparation Checklist","https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation.json"]
                 ]
             },
         "timestamp": {
