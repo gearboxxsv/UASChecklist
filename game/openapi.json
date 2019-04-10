@@ -1,8 +1,5 @@
 {
-  "_id": "QN3etja7EyMbicjgp",
-  "url": "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/openapi.json",
-  "typeObject": "scrapedSite",
-  "websiteData": {
+  "typeObject": "swagger",
     "swagger": "2.0",
     "info": {
       "version": "v1",
@@ -181,6 +178,4 @@
       "maxLength": 36,
       "minLength": 36
     }
-  },
-  "createdAt": 1554867921332.0
 }
