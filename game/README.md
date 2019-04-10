@@ -8,7 +8,7 @@ files to create multi level games with safety content designed for teaching and 
 
 # C.E.O.P. CHECKLIST DATA MODEL
 Each set of configuration level of the game is related to Crew, Environment, Operation, or Preparation for pilots of unmanned aircraft only, this is not for general aviation pilots in any format.  There are XX levels
-for the user to climb to the top of the knowledge ladder model demonstrated in the file naming of the ROOT URL below.
+for the user to climb to the top of the knowledge ladder.   
  
 ### ROOT URL
     All CEOP Topics - LEVEL 1   uast-game-ceop.01.json 
