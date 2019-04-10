@@ -12,12 +12,12 @@ Use JSON based data files built by the Unmanned Aircraft Safety Team in your app
 *  Operation   https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation.json
 *  Preparation https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation.json
 
-# Usage
+### Usage Credit
 Please give credit to *UnmannedAircraftSafetyTeam.org in your application when using the source files.
  
 
 # TOOLSET 
-The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content to test knowledge, the index content, like PDF versions of the checklists, approved by the UAST.  Inside of each openapi.json data file, locate the INDEX node to begin parsing the objects available.  Use of these tools is without warrenty and we provide this information as-is for use for the express purpose described and not for commercial purposes without the express written permission from the Secretary of the UAST.  
+The ROOT file, openapi.json, for all documentation and checklists contains a set of links to other topic or safety focused content, like a PDF version of a checklist, peer reviewed and approved by the UAST.  Use of these tools is without warranty and we provide this information as-is for use. 
 
 > Reporting directly to NASA ASRS is available using the Advanced link below. 
 
