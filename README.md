@@ -1,5 +1,5 @@
 # UASChecklist
-UASChecklist open source dataset project for unmanned systems.  The library contains training dataset for Drone pilot training.   Developers building safety management system integrations can link to the OpenAPI dataset with one link and have the system built into their application.  
+This is the official repository for the Unmanned Aircraft Safety Team (UAST) UASChecklist dataset project.  The library contains training dataset for Drone pilot training created by the members of the UAST.   Developers building safety management system integrations can link to the OpenAPI dataset with one link and have the system built into their application.  
 
 # How To Use
 Use JSON based files built by the Unmanned Aircraft Safety Team in your app by linking to the ROOT dataset.  Parse this file to learn the categories and content available.  Setup your software to poll and pull the GITHUB repository hosted openapi.json ROOT file for easy updates for your application!  
