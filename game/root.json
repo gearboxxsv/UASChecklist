@@ -1,7 +1,5 @@
 {
- "TOC": {
-        "type": "object",
-            "enum": [
+ "TOC": [
             {
                 type:"c",
                 title: "Crew Checklist",
@@ -23,10 +21,10 @@
                 src:"https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json"
             }
         ]
-    },
-    "root": {
+    ,
+    "root": [{
                 title: "Check List or Loose It",
                 src: "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/game.json"
-    },
+    		}]
 
 }
