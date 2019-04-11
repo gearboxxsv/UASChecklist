@@ -1,0 +1,32 @@
+{
+ "TOC": {
+        "type": "object",
+            "enum": [
+            {
+                type:"c",
+                title: "Crew Checklist",
+                src: "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/crew/crew.json"
+            },
+            {
+                type:"e",
+                title: "Environmental Checklist",
+                src:"https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/environment/environment.json"
+            },
+            {
+                type:"o",
+                title: "Operation Checklist",
+                src:"https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/operation/operation.json"
+            },
+            {
+                type:"p",
+                title: "Preparation Checklist",
+                src:"https://raw.githubusercontent.com/gearboxxsv/uaschecklist/master/preparation/preparation.json"
+            }
+        ]
+    },
+    "root": {
+                title: "Check List or Loose It",
+                src: "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/root.json"
+    },
+
+}
