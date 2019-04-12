@@ -1,5 +1,18 @@
 {
-"type":"engine",
-"round":1,
- "url":"https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/uast-game-ceop.01.json"
+  "url": "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/game.json",
+  "type": "GAME",
+  "typeObject": "openapi",
+  "data": [
+    {
+      "type": "engine",
+      "round": 1,
+      "url": "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/uast-game-ceop.01.json"
+    },
+    {
+      "type": "engine",
+      "round": 2,
+      "url": "https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/uast-game-ceop.01.json"
+    }
+  ],
+  "createdAt": 1555029171168.0
 }
