@@ -1,6 +1,5 @@
 {
 "type":"engine",
 "round":1,
-"stages":[]
-
+ "url":"https://raw.githubusercontent.com/gearboxxsv/UASChecklist/master/game/uast-game-ceop.01.json"
 }
