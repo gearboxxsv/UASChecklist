@@ -1,9 +1,6 @@
 {
-"type":"gameengine",
-"round":{
-"title":"Round 1",
-"slides":[{
-         }]
-},
+"type":"engine",
+"round":1,
+"stages":[]
 
 }
