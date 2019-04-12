@@ -1,48 +1,48 @@
 {
   "ceop": [
-    {
-      "parent": "c",
-      "type": "RB",
-      "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
-      "ans1": "All Airport runways and approach paths ",
-      "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
-      "ans3": "Security sensitive airspace restrictions (Flight Restricted, FR)",
-      "ans4": "Approach/departure paths of Class B and C airports",
-      "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
-      "correct": "ans4"
-    },
-    {
-      "parent": "e",
-      "type": "RB",
-      "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
-      "ans1": "All Airport runways and approach paths ",
-      "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
-      "ans3": "Security sensitive airspace restrictions (Flight Restricted, FR)",
-      "ans4": "Approach/departure paths of Class B and C airports",
-      "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
-      "correct": "ans1"
-    },
-    {
-      "parent": "o",
-      "type": "RB",
-      "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
-      "ans1": "All Airport runways and approach paths ",
-      "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
-      "ans3": "Security sensitive airspace restrictions (Flight Restricted, FR)",
-      "ans4": "Approach/departure paths of Class B and C airports",
-      "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
-      "correct": "ans1"
-    },
-    {
-      "parent": "p",
-      "type": "RB",
-      "labelTxt": "What type of Airspace do you believe are vital to protect (Choose your 2nd priority)?",
-      "ans1": "All Airport runways and approach paths ",
-      "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
-      "ans3": "Security sensitive airspace restrictions (Flight Restricted, FR)",
-      "ans4": "Approach/departure paths of Class B and C airports",
-      "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
-      "correct": "ans1"
-    }
+     {
+            "parent": "c",
+            "type": "RB",
+            "labelTxt": "When do I need to report an accident?",
+            "ans1": "The remote pilot in command of the small UAS is required to report an accident to the FAA within 10 days if it results in at least serious injury to any person or any loss of consciousness ",
+            "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Approach/departure paths of Class B and C airports",
+            "ans5": "if it causes damage to any property (other than the UAS) in excess of $500 to repair or replace the property (whichever is lower).",
+            "correct": "ans1,ans5"
+        },
+        {
+            "parent": "p",
+            "type": "RB",
+            "labelTxt": "If someone's UAS crashes in my yard, hurts someone, or damages my property, what do I do?",
+            "ans1": "All Airport runways and approach paths ",
+            "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Call local law enforcement. Law enforcement personnel will contact the FAA if the crash investigation requires FAA participation. ",
+            "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
+            "correct": "ans4"
+        },
+        {
+            "parent": "p",
+            "type": "RB",
+            "labelTxt": "What should I do if I see someone flying a drone in a reckless or irresponsible manner?",
+            "ans1": "All Airport runways and approach paths ",
+            "ans2": "Airspace near airports (and specifically the portions of the airspace above the \"LAANC altitudes\")",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Call local law enforcement. Law enforcement personnel will contact the FAA if the crash investigation requires FAA participation. ",
+            "ans5": "Flying a drone in a reckless manner is a violation of Federal law and FAA regulations and could result in civil fines or criminal action. If you see something that could endanger other aircraft or people on the ground, call local law enforcement.",
+            "correct": "ans5"
+        },
+        {
+            "parent": "p",
+            "type": "RB",
+            "labelTxt": "How do I fly a UAS for work or business purposes? There are three ways to fly a UAS for work, business, or non-recreational reasons: ",
+            "ans1": "Following the requirements in the Small UAS rule (Part 107)",
+            "ans2": "Following the rules in your Section 333 grant of exemption",
+            "ans3": "Secuirty sensitive airspace restrictions (Flight Restricted, FR)",
+            "ans4": "Obtain an airworthiness certificate for the aircraft",
+            "ans5": "Restricted or Special Use Airspace (DoD etc) TFRs under 14 CFR 99.7 & 91 (ANY)",
+            "correct": "ans1,ans2,ans4"
+}
   ]
 }
