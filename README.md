@@ -1,5 +1,5 @@
 # UASChecklist
-This is the official repository for the Unmanned Aircraft Safety Team (UAST) UASChecklist dataset project.  The library contains datasets for Drone pilot training created by the UAST.   Developers building toolsets can link to the OpenAPI formatted configuration file with one link and leverage the system assets into their application free of charge.  
+This library contains datasets for Drone pilot training  curated by the UAST.   Developers building toolsets can link to the OpenAPI formatted configuration file with one link and leverage the system assets into their application free of charge.  
 
 # How To Use
 ### Quick-Start URLs
