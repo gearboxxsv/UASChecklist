@@ -1,5 +1,5 @@
 # UASChecklist
-This library contains datasets for Drone pilot training  curated by the UAST.   Developers building toolsets can link to the OpenAPI formatted configuration file with one link and leverage the system assets into their application free of charge.  
+This library contains datasets curated by the Technology Exploration Group.   Developers building toolsets can link to the OpenAPI formatted configuration file with one link and leverage the system assets into their application free of charge.  
 
 # How To Use
 ### Quick-Start URLs
@@ -19,12 +19,6 @@ The ROOT file, openapi.json, for all documentation and checklists contains a set
 
 [Learn About UAST Anonymous Reporting & Data Use](https://github.com/gearboxxsv/OPENASRS)
 
- 
-### Why Participate With The UAST?
-* Participate in a deliberate system for risk analysis
-* Embed API for continuous improvement of safety reporting in your products & services
-* Subscribe to industry safety assurance enhancements  
-
-[Privacy Policy](https://www.unmannedaircraftsafetyteam.org/privacy-policy/)
+  
 
  
