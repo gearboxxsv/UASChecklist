@@ -15,9 +15,9 @@ The ROOT file, openapi.json, for all documentation and checklists contains a set
 
 
 # INTERESTED IN ACCIDENT REPORTING?
- > Reporting directly to NASA ASRS is available using the Advanced link below. 
+ > Reporting directly to NASA or the local Airspace Management Government organization for your country is available using the link below. 
 
-[Learn About UAST Anonymous Reporting & Data Use](https://github.com/gearboxxsv/OPENASRS)
+[Learn About International Drone Safety Team's Anonymous Reporting & Data Use](https://github.com/gearboxxsv/OPENASRS)
 
   
 
